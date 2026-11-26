@@ -14,7 +14,7 @@ An end-to-end Business Intelligence solution analyzing **13M+ credit card transa
 
 ### 1. Management Overview
 High-level executive summary tracking total customers (2,000), issued cards (6,146), total transaction volume ($572M), average ticket size ($43), and payment method breakdown.
-![Management Dashboard](Management_DashBoard_2.png)
+![Management Dashboard](Management_DashBoard.png)
 
 ### 2. Customers Insight
 Demographic and financial health analysis covering average credit score (709.73), yearly income ($45.72K), total debt ($64K), and debt-to-income distribution across age groups and gender.
